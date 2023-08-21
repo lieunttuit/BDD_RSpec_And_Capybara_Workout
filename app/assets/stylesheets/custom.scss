@@ -1,0 +1,25 @@
+/* Styles for #error_explanation */
+#error_explanation {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f8d7da;  /* Light red background */
+  border: 1px solid #f5c6cb;  /* Red border */
+  border-radius: 4px;         /* Rounded edges */
+  color: #721c24;             /* Dark red text color */
+}
+
+#error_explanation h2 {
+  font-size: 18px;
+  margin-top: 0;
+  color: #721c24;  /* Dark red text color */
+}
+
+#error_explanation ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+#error_explanation ul li {
+  margin-bottom: 5px;
+}
